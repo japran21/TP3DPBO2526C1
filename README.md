@@ -11,4 +11,9 @@ Alur Desain ini dimulai dari entitas Handphone karena Handphone yang menjadi pem
 
 Relasi pertama yaitu Handphone dan chipset dengan kardinalitas satu banding satu, maksdunya itu jadi setiap handphone memiliki tepat satu chipset dan satu chipset melekat dengan satu handphone, bisa dilihat di handphone yang dimana langsung membuat objek chipset dan namaChipset dan jumlahCore saat handphone dibuat. lalu chipset menyimpan 2 atribut, namachipset dan cpuCore. karena chipset tidak bisa berdiri sendiri tanpa handphone, jadi ini semua termasuk composition.
 
-Relasi kedua yaitu antara hadnphone dan perangkat keras dengan kardinalitas satu banding banyak, maksudnya itu satu handphone bisa dipasang nol atau lebih komponen melalui menu Pasang Komponen, yang tersimpan didalam kocde yaitu vector <perangkatkeras*>komponen.
+Relasi kedua yaitu antara hadnphone dan perangkat keras dengan kardinalitas satu banding banyak, maksudnya itu satu handphone bisa dipasang nol atau lebih komponen melalui menu Pasang Komponen.
+
+Relasi ketiga yaitu perwarisan dari perangkatkeras ke layar dan kamera. jadi perangkatkeras sebagai entitas umum, sedangkan layar dan kamera bentuk khusus nya, jadi layar menambahkan atribut tipelayar dan refreshrate, kalau  kamera menambahkan resolusi dan jenislensa jadi duda duanya membawa namaPart dan hargaPart dari induknya.
+
+# DOKUMENTASI
+
