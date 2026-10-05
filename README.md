@@ -17,3 +17,16 @@ Relasi ketiga yaitu perwarisan dari perangkatkeras ke layar dan kamera. jadi per
 
 # DOKUMENTASI
 
+# CPP
+<img width="330" height="811" alt="image" src="https://github.com/user-attachments/assets/b5d21eee-d086-419a-9552-50937ef77ea5" />
+<img width="442" height="939" alt="image" src="https://github.com/user-attachments/assets/a46f2b37-70ac-4110-91aa-8e74f20dd938" />
+
+
+# JAVA
+<img width="325" height="686" alt="image" src="https://github.com/user-attachments/assets/4f5b2152-bfdc-4746-ba27-656ff67ff268" />
+<img width="325" height="686" alt="image" src="https://github.com/user-attachments/assets/0e71fa99-c460-4cc8-a6fa-8f1b90939a06" />
+<img width="329" height="307" alt="image" src="https://github.com/user-attachments/assets/e6771bb1-d876-4fb7-b9b7-0e3fd939d6eb" />
+
+# PYTHON
+
+
