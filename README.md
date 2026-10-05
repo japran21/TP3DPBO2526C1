@@ -28,5 +28,11 @@ Relasi ketiga yaitu perwarisan dari perangkatkeras ke layar dan kamera. jadi per
 <img width="329" height="307" alt="image" src="https://github.com/user-attachments/assets/e6771bb1-d876-4fb7-b9b7-0e3fd939d6eb" />
 
 # PYTHON
+<img width="348" height="403" alt="image" src="https://github.com/user-attachments/assets/1b0bd690-1aa8-475f-b75e-865ab80aa270" />
+<img width="287" height="665" alt="image" src="https://github.com/user-attachments/assets/40715cc2-0f54-48a9-812a-3f186ba614d2" />
+<img width="373" height="630" alt="image" src="https://github.com/user-attachments/assets/8a486aa2-56ae-40c5-9809-d1248c24d3c9" />
+
+
+
 
 
